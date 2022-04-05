@@ -5,4 +5,4 @@ xarray
 act-atmos
 xlrd
 numba
-matplotlib==3.5.1
+matplotlib
